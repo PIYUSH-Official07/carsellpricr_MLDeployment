@@ -27,4 +27,4 @@ urllib3==1.26.6
 virtualenv==16.7.5
 Werkzeug==2.0.1
 wincertstore==0.2
-gunicorn
+gunicorn==20.0.4
