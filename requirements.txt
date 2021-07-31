@@ -17,7 +17,7 @@ numpy==1.21.1
 Pillow==6.2.0
 pylint==2.5.2
 requests==2.26.0
-scikit-learn==0.21.3
+scikit-learn==0.24.2
 scipy==1.7.0
 sklearn==0.0
 threadpoolctl==2.2.0
@@ -27,4 +27,3 @@ urllib3==1.26.6
 virtualenv==16.7.5
 Werkzeug==2.0.1
 wincertstore==0.2
-psycopg2==binary
